@@ -21,7 +21,11 @@ https://www.arducam.com/product/64mp-af-for-raspberry-pi/
 https://rbts.co/solutions/c50m-camera-module-for-raspberry-pi-nvidia-jetson-and-rockchip-rk3588/
 
 # Lightsource
-first planned with a single, high light quality (CRI 97) white LED. But as camera sensors only detect red, green and blue, a set of a red, green and blue LED might be sufficient. This would also allow the live adjustment of the histogram during scanning, as each color channel can be dimmed individualy
+first planned with a single, high light quality (CRI 97) white LED. But as camera sensors only detect red, green and blue, a set of a red, green and blue LED might be sufficient. This would also allow the live adjustment of the histogram during scanning, as each color channel can be dimmed individualy.
+
+Additionally, a IR-LED can be used to take an image for scratch detection. In this case, a camera module without IR filter has to be used!
+
+For this, see e.g. http://www.cine2digits.co.uk/
 
 # BOM (so far, not complete, work in process)
 
@@ -39,6 +43,8 @@ https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-final-version-with-cano
 https://hackaday.io/project/185040-8mm-film-scanner-v2
 
 https://hackaday.io/project/189773-program-with-a-gui-for-the-anton-8mm-film-scanner
+
+http://www.nightshade-arts.co.uk/telecine/
 
 DIY Cleaner: https://www.super-8.com/film-reiniger.html
 
