@@ -25,7 +25,11 @@ first planned with a single, high light quality (CRI 97) white LED. But as camer
 
 Additionally, a IR-LED can be used to take an image for scratch detection. In this case, a camera module without IR filter has to be used!
 
-For this, see e.g. http://www.cine2digits.co.uk/
+For this, see Cine2Digits, e.g.
+
+http://www.cine2digits.co.uk/
+
+http://www.cine2digits.co.uk/Downloads/C2Dbrochure2.pdf
 
 # BOM (so far, not complete, work in process)
 
