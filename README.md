@@ -5,6 +5,8 @@ Currently work in progress and more of a brainstorming platform
 
 # Benchmark negative photo digitizer
 
+according to https://www.filmscanner.info/FilmscannerRangliste.html
+
 Braun FS-120
 
 Nikon Coolscan V ED
