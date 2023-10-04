@@ -50,6 +50,8 @@ https://hackaday.io/project/189773-program-with-a-gui-for-the-anton-8mm-film-sca
 
 http://www.nightshade-arts.co.uk/telecine/
 
+http://www.super-8.be
+
 DIY Cleaner: https://www.super-8.com/film-reiniger.html
 
 DIY Wetgate: https://www.youtube.com/watch?v=Nsk4Eb1Lzq4
