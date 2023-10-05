@@ -45,6 +45,8 @@ Photoelectric Sensor Infrared Correlation Counting Sensor Module ME074, 5 V, LM3
 
 # This project is inspired by these projects
 
+https://tscann8.torulf.com/
+
 https://www.deniscarl.com/dokuwiki/doku.php?id=start
 
 https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-final-version-with-canon-1000d/
