@@ -27,6 +27,8 @@ first planned with a single, high light quality (CRI 97) white LED. But as camer
 
 Additionally, a IR-LED can be used to take an image for scratch detection. In this case, a camera module without IR filter has to be used!
 
+Use a UV LED/laser (e.g. of a blu ray player), so that even transparent or bad perforations can be detected: https://www.youtube.com/watch?v=wecZJvvL05c
+
 For this, see Cine2Digits, e.g.
 
 http://www.cine2digits.co.uk/
