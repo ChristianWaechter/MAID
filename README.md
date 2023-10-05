@@ -44,6 +44,9 @@ Sunon MF50151VX-B00U-A99, radial fan, 12 VDC, 2 W
 Photoelectric Sensor Infrared Correlation Counting Sensor Module ME074, 5 V, LM393
 
 # This project is inspired by these projects
+
+https://www.deniscarl.com/dokuwiki/doku.php?id=start
+
 https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-final-version-with-canon-1000d/
 
 https://hackaday.io/project/185040-8mm-film-scanner-v2
