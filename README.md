@@ -47,6 +47,8 @@ Photoelectric Sensor Infrared Correlation Counting Sensor Module ME074, 5 V, LM3
 
 # This project is inspired by these projects
 
+https://filmfabriek.nl/hds-plus/
+
 https://scanpaleis.nl/media/smalfilm-digitaliseren/wetgate-scanning/
 
 https://fotospeed.at/common/schmalfilme/wetgate.html
