@@ -47,6 +47,8 @@ Photoelectric Sensor Infrared Correlation Counting Sensor Module ME074, 5 V, LM3
 
 # This project is inspired by these projects
 
+https://tinkerdifferent.com/threads/modding-the-kodak-reels-8mm-film-digitizer-firmware-hack.2897/
+
 https://www.reddit.com/r/AnalogCommunity/comments/dsq171/the_magic_of_ir_cleaning_and_flatfield_correction/
 
 RGB Light Source: https://jackw01.github.io/scanlight/
